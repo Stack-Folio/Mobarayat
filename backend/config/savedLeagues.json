@@ -1,0 +1,138 @@
+[
+    {
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "leagueNameAr": "كأس العالم",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 2,
+      "leagueName": "UEFA Champions League",
+      "leagueNameAr": "دوري أبطال أوروبا",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/2.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 39,
+      "leagueName": "Premier League",
+      "leagueNameAr": "الدوري الإنجليزي الممتاز",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
+      "leagueCountryName": "England",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/gb-eng.svg"
+    },
+    {
+      "leagueId": 140,
+      "leagueName": "La Liga",
+      "leagueNameAr": "الدوري الإسباني",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
+      "leagueCountryName": "Spain",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/es.svg"
+    },
+    {
+      "leagueId": 135,
+      "leagueName": "Serie A",
+      "leagueNameAr": "الدوري الإيطالي",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+      "leagueCountryName": "Italy",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/it.svg"
+    },
+    {
+      "leagueId": 78,
+      "leagueName": "Bundesliga",
+      "leagueNameAr": "الدوري الألماني",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+      "leagueCountryName": "Germany",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/de.svg"
+    },
+    {
+      "leagueId": 61,
+      "leagueName": "Ligue 1",
+      "leagueNameAr": "الدوري الفرنسي",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/61.png",
+      "leagueCountryName": "France",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    {
+      "leagueId": 307,
+      "leagueName": "Saudi Pro League",
+      "leagueNameAr": "الدوري السعودي للمحترفين",
+      "leagueType": "League",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/307.png",
+      "leagueCountryName": "Saudi Arabia",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/sa.svg"
+    },
+    {
+      "leagueId": 3,
+      "leagueName": "UEFA Europa League",
+      "leagueNameAr": "الدوري الأوروبي",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/3.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 4,
+      "leagueName": "Euro Championship",
+      "leagueNameAr": "بطولة أمم أوروبا",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/4.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 9,
+      "leagueName": "Copa America",
+      "leagueNameAr": "كوبا أمريكا",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/9.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 7,
+      "leagueName": "Asian Cup",
+      "leagueNameAr": "كأس آسيا",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/7.png",
+      "leagueCountryName": "World",
+      "leagueCountryFlag": null
+    },
+    {
+        "leagueId": 533,
+        "leagueName": "CAF Super Cup",
+        "leagueNameAr": "كأس السوبر الأفريقي",
+        "leagueType": "Cup",
+        "leagueLogo": "https://media.api-sports.io/football/leagues/533.png",
+        "leagueCountryName": "World",
+        "leagueCountryFlag": null
+    },
+    {
+      "leagueId": 45,
+      "leagueName": "FA Cup",
+      "leagueNameAr": "كأس الاتحاد الإنجليزي",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/45.png",
+      "leagueCountryName": "England",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/gb-eng.svg"
+    },
+    {
+      "leagueId": 143,
+      "leagueName": "Copa del Rey",
+      "leagueNameAr": "كأس ملك إسبانيا",
+      "leagueType": "Cup",
+      "leagueLogo": "https://media.api-sports.io/football/leagues/143.png",
+      "leagueCountryName": "Spain",
+      "leagueCountryFlag": "https://media.api-sports.io/flags/es.svg"
+    }
+  ]
+  
